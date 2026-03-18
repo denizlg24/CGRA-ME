@@ -7,5 +7,11 @@ target_link_libraries(
   PRIVATE cgra-me
   )
 
+if(APPLE)
+  # On macOS, LLVM pass plugins are loaded by opt which provides the symbols.
+  # Allow undefined symbols at link time (matching Linux's default behavior).
+  target_link_options(DFG PRIVATE -undefined dynamic_lookup)
+endif()
+
 configure_file(LoopParser.py ${CMAKE_BINARY_DIR}/script/LoopParser.py COPYONLY)
 

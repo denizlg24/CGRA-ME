@@ -13,6 +13,15 @@ GENERATED_MAKEFILE = $(BUILD_DIR)/Makefile
 #CMake flags
 CMAKE_FLAGS = -DCMAKE_BUILD_TYPE=$(BUILD_TYPE) -DBUILD_LLVM_PASSES=ON
 
+#On macOS with Homebrew LLVM, set LLVM_DIR so CMake can find it
+UNAME_S := $(shell uname -s)
+ifeq ($(UNAME_S),Darwin)
+LLVM_PREFIX := $(shell brew --prefix llvm@14 2>/dev/null)
+ifneq ($(LLVM_PREFIX),)
+CMAKE_FLAGS += -DLLVM_DIR=$(LLVM_PREFIX)/lib/cmake/llvm
+endif
+endif
+
 #Check if cmake is installed
 CMAKE = $(shell command -v cmake 2> /dev/null)
 

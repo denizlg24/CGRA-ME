@@ -39,7 +39,12 @@
 #include <iomanip>
 #include <iterator>
 
+#ifdef __APPLE__
+#include <limits.h>
+#include <mach-o/dyld.h>
+#else
 #include <linux/limits.h>
+#endif
 #include <unistd.h>
 #include <libgen.h>
 
@@ -197,15 +202,25 @@ int main(int argc, char* argv[])
     try
     {
         char full_path[PATH_MAX] = {0}; // initialize to zero, so we don't have to set the null char ourselves
-        ssize_t count = readlink("/proc/self/exe", full_path, PATH_MAX-1);
         std::string exe_path;
+#ifdef __APPLE__
+        uint32_t bufsize = PATH_MAX;
+        if(_NSGetExecutablePath(full_path, &bufsize) == 0)
+        {
+            char real_path[PATH_MAX];
+            realpath(full_path, real_path);
+            exe_path = std::string(dirname(real_path));
+        }
+#else
+        ssize_t count = readlink("/proc/self/exe", full_path, PATH_MAX-1);
         if(count != -1)
         {
             exe_path = std::string(dirname(full_path));
         }
+#endif
         else
         {
-            std::cout << "[ERROR] Readlink is not able to get the executable path" << std::endl;
+            std::cout << "[ERROR] Unable to get the executable path" << std::endl;
             return 1;
         }
 

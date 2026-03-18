@@ -6,3 +6,11 @@ Set parameter LicenseID to value 2793337
 Set parameter LogFile to value "gurobi.log"
 Using license file /home/denizlg24/gurobi.lic
 Academic license - for non-commercial use only - expires 2027-03-16
+
+Gurobi 13.0.1 (mac64[arm], gurobi_cl) logging started Wed Mar 18 10:25:16 2026
+
+Set parameter Username
+Set parameter LicenseID to value 2785730
+Set parameter LogFile to value "gurobi.log"
+Using license file /Users/denizlg24/gurobi.lic
+Academic license - for non-commercial use only - expires 2027-03-01

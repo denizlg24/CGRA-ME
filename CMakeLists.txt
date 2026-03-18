@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.1)
+cmake_minimum_required(VERSION 3.5)
 
 set (CMAKE_CXX_STANDARD 14)
 set (BUILD_SHARED_LIBS ON)
@@ -18,6 +18,19 @@ set(CGRAME_DIR ${CMAKE_CURRENT_SOURCE_DIR})
 set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/lib)
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/lib)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
+
+# Set rpath so binaries can find shared libraries at runtime
+if(APPLE)
+  set(CMAKE_MACOSX_RPATH ON)
+  set(CMAKE_BUILD_RPATH
+    ${CMAKE_BINARY_DIR}/lib
+    ${CMAKE_CURRENT_SOURCE_DIR}/thirdparty/scipoptsuite/lib
+  )
+  set(CMAKE_INSTALL_RPATH
+    ${CMAKE_BINARY_DIR}/lib
+    ${CMAKE_CURRENT_SOURCE_DIR}/thirdparty/scipoptsuite/lib
+  )
+endif()
 
 set(PUGIXML_INCLUDE_DIR ${CMAKE_CURRENT_SOURCE_DIR}/thirdparty/pugixml)
 set(SCIP_INCLUDE_DIR ${CMAKE_CURRENT_SOURCE_DIR}/thirdparty/scipoptsuite/scip-4.0.0/src)

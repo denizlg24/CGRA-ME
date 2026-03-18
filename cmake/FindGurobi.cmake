@@ -2,11 +2,27 @@
 if(DEFINED ENV{GUROBI_HOME})
     message(STATUS "Found Environmental Variable $GUROBI_HOME")
 
-    execute_process(
-        COMMAND find -name "libgurobi.so*" -type f -printf "%f"
-        WORKING_DIRECTORY $ENV{GUROBI_HOME}
-        OUTPUT_VARIABLE GUROBI_SHARED_LIB_NAME
-    )
+    # Determine platform-specific library subdirectory and extension
+    if(APPLE)
+        set(GUROBI_LIB_DIR "$ENV{GUROBI_HOME}/lib")
+        set(GUROBI_INC_DIR "$ENV{GUROBI_HOME}/include")
+        file(GLOB GUROBI_SHARED_LIB_LIST "$ENV{GUROBI_HOME}/lib/libgurobi*.dylib")
+    else()
+        set(GUROBI_LIB_DIR "$ENV{GUROBI_HOME}/linux64/lib")
+        set(GUROBI_INC_DIR "$ENV{GUROBI_HOME}/linux64/include")
+        file(GLOB GUROBI_SHARED_LIB_LIST "$ENV{GUROBI_HOME}/lib/libgurobi*.so"
+                                          "$ENV{GUROBI_HOME}/linux64/lib/libgurobi*.so")
+    endif()
+
+    # Filter out light/Jni variants and get the main library name
+    set(GUROBI_SHARED_LIB_NAME "")
+    foreach(LIB_PATH ${GUROBI_SHARED_LIB_LIST})
+        get_filename_component(LIB_NAME ${LIB_PATH} NAME)
+        if(NOT LIB_NAME MATCHES "light|Jni")
+            set(GUROBI_SHARED_LIB_NAME ${LIB_NAME})
+            break()
+        endif()
+    endforeach()
 
     if(NOT GUROBI_SHARED_LIB_NAME)
         message(STATUS "Gurobi Not Found In $GUROBI_HOME, Using Default Solver Instead")
@@ -14,25 +30,19 @@ if(DEFINED ENV{GUROBI_HOME})
         find_path(
             GUROBI_INCLUDE_DIR
             NAMES gurobi_c++.h
-            PATHS "$ENV{GUROBI_HOME}/linux64/include"
+            PATHS "${GUROBI_INC_DIR}"
         )
 
         find_library(
-            GUROBI_4_2_LIBRARY
-            NAMES gurobi_g++4.2 libgurobi_g++4.2
-            PATHS "$ENV{GUROBI_HOME}/linux64/lib"
-        )
-
-        find_library(
-            GUROBI_5_2_LIBRARY
-            NAMES gurobi_g++5.2 libgurobi_g++5.2
-            PATHS "$ENV{GUROBI_HOME}/linux64/lib"
+            GUROBI_CXX_LIBRARY
+            NAMES gurobi_c++ gurobi_g++5.2 gurobi_g++4.2
+            PATHS "${GUROBI_LIB_DIR}"
         )
 
         find_library(
             GUROBI_MAIN_LIBRARY
             NAMES ${GUROBI_SHARED_LIB_NAME}
-            PATHS "$ENV{GUROBI_HOME}/linux64/lib"
+            PATHS "${GUROBI_LIB_DIR}"
         )
     endif()
 
@@ -57,14 +67,8 @@ else(DEFINED ENV{GUROBI_HOME})
     )
 
     find_library(
-        GUROBI_4_2_LIBRARY
-        NAMES gurobi_g++4.2 libgurobi_g++4.2
-        PATHS "${CGRAME_DIR}/../${GUROBI_DIR_NAME}/linux64/lib"
-    )
-
-    find_library(
-        GUROBI_5_2_LIBRARY
-        NAMES gurobi_g++5.2 libgurobi_g++5.2
+        GUROBI_CXX_LIBRARY
+        NAMES gurobi_g++5.2 gurobi_g++4.2
         PATHS "${CGRAME_DIR}/../${GUROBI_DIR_NAME}/linux64/lib"
     )
 
@@ -85,22 +89,14 @@ endif()
             IMPORTED_LOCATION "${GUROBI_MAIN_LIBRARY}"
         )
 
-        if(CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
+        if(GUROBI_CXX_LIBRARY)
             add_library(gurobi::cxx UNKNOWN IMPORTED)
 
-            if(CMAKE_CXX_COMPILER_VERSION VERSION_LESS "5.2")
-                set_target_properties(
+            set_target_properties(
                 gurobi::cxx PROPERTIES
                 IMPORTED_LINK_INTERFACE_LANGUAGES "CXX"
-                IMPORTED_LOCATION "${GUROBI_4_2_LIBRARY}"
-                )
-            else()
-                set_target_properties(
-                gurobi::cxx PROPERTIES
-                IMPORTED_LINK_INTERFACE_LANGUAGES "CXX"
-                IMPORTED_LOCATION "${GUROBI_5_2_LIBRARY}"
-                )
-            endif()
+                IMPORTED_LOCATION "${GUROBI_CXX_LIBRARY}"
+            )
 
             set_target_properties(
                 gurobi::cxx PROPERTIES
@@ -114,4 +110,3 @@ include(FindPackageHandleStandardArgs)
         GUROBI_LIBRARY
         REQUIRED_VARS GUROBI_MAIN_LIBRARY GUROBI_INCLUDE_DIR
     )
-
