@@ -1,3 +1,4 @@
+project(llvm-passes CXX C)
 find_package(LLVM REQUIRED CONFIG)
 
 add_definitions(${LLVM_DEFINITIONS})
