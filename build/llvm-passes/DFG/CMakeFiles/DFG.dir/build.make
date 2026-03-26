@@ -76,15 +76,15 @@ llvm-passes/DFG/CMakeFiles/DFG.dir/DFGGeneration.cpp.o: llvm-passes/DFG/CMakeFil
 llvm-passes/DFG/CMakeFiles/DFG.dir/DFGGeneration.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/llvm-passes/DFG/DFGGeneration.cpp
 llvm-passes/DFG/CMakeFiles/DFG.dir/DFGGeneration.cpp.o: llvm-passes/DFG/CMakeFiles/DFG.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object llvm-passes/DFG/CMakeFiles/DFG.dir/DFGGeneration.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/llvm-passes/DFG && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT llvm-passes/DFG/CMakeFiles/DFG.dir/DFGGeneration.cpp.o -MF CMakeFiles/DFG.dir/DFGGeneration.cpp.o.d -o CMakeFiles/DFG.dir/DFGGeneration.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/llvm-passes/DFG/DFGGeneration.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/llvm-passes/DFG && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT llvm-passes/DFG/CMakeFiles/DFG.dir/DFGGeneration.cpp.o -MF CMakeFiles/DFG.dir/DFGGeneration.cpp.o.d -o CMakeFiles/DFG.dir/DFGGeneration.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/llvm-passes/DFG/DFGGeneration.cpp
 
 llvm-passes/DFG/CMakeFiles/DFG.dir/DFGGeneration.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/DFG.dir/DFGGeneration.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/llvm-passes/DFG && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/llvm-passes/DFG/DFGGeneration.cpp > CMakeFiles/DFG.dir/DFGGeneration.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/llvm-passes/DFG && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/llvm-passes/DFG/DFGGeneration.cpp > CMakeFiles/DFG.dir/DFGGeneration.cpp.i
 
 llvm-passes/DFG/CMakeFiles/DFG.dir/DFGGeneration.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/DFG.dir/DFGGeneration.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/llvm-passes/DFG && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/llvm-passes/DFG/DFGGeneration.cpp -o CMakeFiles/DFG.dir/DFGGeneration.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/llvm-passes/DFG && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/llvm-passes/DFG/DFGGeneration.cpp -o CMakeFiles/DFG.dir/DFGGeneration.cpp.s
 
 # Object files for target DFG
 DFG_OBJECTS = \

@@ -76,15 +76,15 @@ thirdparty/pugixml/CMakeFiles/pugixml.dir/pugixml.cpp.o: thirdparty/pugixml/CMak
 thirdparty/pugixml/CMakeFiles/pugixml.dir/pugixml.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/thirdparty/pugixml/pugixml.cpp
 thirdparty/pugixml/CMakeFiles/pugixml.dir/pugixml.cpp.o: thirdparty/pugixml/CMakeFiles/pugixml.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object thirdparty/pugixml/CMakeFiles/pugixml.dir/pugixml.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/thirdparty/pugixml && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdparty/pugixml/CMakeFiles/pugixml.dir/pugixml.cpp.o -MF CMakeFiles/pugixml.dir/pugixml.cpp.o.d -o CMakeFiles/pugixml.dir/pugixml.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/thirdparty/pugixml/pugixml.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/thirdparty/pugixml && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdparty/pugixml/CMakeFiles/pugixml.dir/pugixml.cpp.o -MF CMakeFiles/pugixml.dir/pugixml.cpp.o.d -o CMakeFiles/pugixml.dir/pugixml.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/thirdparty/pugixml/pugixml.cpp
 
 thirdparty/pugixml/CMakeFiles/pugixml.dir/pugixml.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/pugixml.dir/pugixml.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/thirdparty/pugixml && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/thirdparty/pugixml/pugixml.cpp > CMakeFiles/pugixml.dir/pugixml.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/thirdparty/pugixml && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/thirdparty/pugixml/pugixml.cpp > CMakeFiles/pugixml.dir/pugixml.cpp.i
 
 thirdparty/pugixml/CMakeFiles/pugixml.dir/pugixml.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/pugixml.dir/pugixml.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/thirdparty/pugixml && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/thirdparty/pugixml/pugixml.cpp -o CMakeFiles/pugixml.dir/pugixml.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/thirdparty/pugixml && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/thirdparty/pugixml/pugixml.cpp -o CMakeFiles/pugixml.dir/pugixml.cpp.s
 
 # Object files for target pugixml
 pugixml_OBJECTS = \

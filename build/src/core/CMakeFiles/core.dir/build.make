@@ -76,183 +76,183 @@ src/core/CMakeFiles/core.dir/AnnealMapper.cpp.o: src/core/CMakeFiles/core.dir/fl
 src/core/CMakeFiles/core.dir/AnnealMapper.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/AnnealMapper.cpp
 src/core/CMakeFiles/core.dir/AnnealMapper.cpp.o: src/core/CMakeFiles/core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/core/CMakeFiles/core.dir/AnnealMapper.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/AnnealMapper.cpp.o -MF CMakeFiles/core.dir/AnnealMapper.cpp.o.d -o CMakeFiles/core.dir/AnnealMapper.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/AnnealMapper.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/AnnealMapper.cpp.o -MF CMakeFiles/core.dir/AnnealMapper.cpp.o.d -o CMakeFiles/core.dir/AnnealMapper.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/AnnealMapper.cpp
 
 src/core/CMakeFiles/core.dir/AnnealMapper.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core.dir/AnnealMapper.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/AnnealMapper.cpp > CMakeFiles/core.dir/AnnealMapper.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/AnnealMapper.cpp > CMakeFiles/core.dir/AnnealMapper.cpp.i
 
 src/core/CMakeFiles/core.dir/AnnealMapper.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core.dir/AnnealMapper.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/AnnealMapper.cpp -o CMakeFiles/core.dir/AnnealMapper.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/AnnealMapper.cpp -o CMakeFiles/core.dir/AnnealMapper.cpp.s
 
 src/core/CMakeFiles/core.dir/BitSetting.cpp.o: src/core/CMakeFiles/core.dir/flags.make
 src/core/CMakeFiles/core.dir/BitSetting.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/BitSetting.cpp
 src/core/CMakeFiles/core.dir/BitSetting.cpp.o: src/core/CMakeFiles/core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/core/CMakeFiles/core.dir/BitSetting.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/BitSetting.cpp.o -MF CMakeFiles/core.dir/BitSetting.cpp.o.d -o CMakeFiles/core.dir/BitSetting.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/BitSetting.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/BitSetting.cpp.o -MF CMakeFiles/core.dir/BitSetting.cpp.o.d -o CMakeFiles/core.dir/BitSetting.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/BitSetting.cpp
 
 src/core/CMakeFiles/core.dir/BitSetting.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core.dir/BitSetting.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/BitSetting.cpp > CMakeFiles/core.dir/BitSetting.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/BitSetting.cpp > CMakeFiles/core.dir/BitSetting.cpp.i
 
 src/core/CMakeFiles/core.dir/BitSetting.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core.dir/BitSetting.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/BitSetting.cpp -o CMakeFiles/core.dir/BitSetting.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/BitSetting.cpp -o CMakeFiles/core.dir/BitSetting.cpp.s
 
 src/core/CMakeFiles/core.dir/BitStream.cpp.o: src/core/CMakeFiles/core.dir/flags.make
 src/core/CMakeFiles/core.dir/BitStream.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/BitStream.cpp
 src/core/CMakeFiles/core.dir/BitStream.cpp.o: src/core/CMakeFiles/core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/core/CMakeFiles/core.dir/BitStream.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/BitStream.cpp.o -MF CMakeFiles/core.dir/BitStream.cpp.o.d -o CMakeFiles/core.dir/BitStream.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/BitStream.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/BitStream.cpp.o -MF CMakeFiles/core.dir/BitStream.cpp.o.d -o CMakeFiles/core.dir/BitStream.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/BitStream.cpp
 
 src/core/CMakeFiles/core.dir/BitStream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core.dir/BitStream.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/BitStream.cpp > CMakeFiles/core.dir/BitStream.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/BitStream.cpp > CMakeFiles/core.dir/BitStream.cpp.i
 
 src/core/CMakeFiles/core.dir/BitStream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core.dir/BitStream.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/BitStream.cpp -o CMakeFiles/core.dir/BitStream.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/BitStream.cpp -o CMakeFiles/core.dir/BitStream.cpp.s
 
 src/core/CMakeFiles/core.dir/CGRA.cpp.o: src/core/CMakeFiles/core.dir/flags.make
 src/core/CMakeFiles/core.dir/CGRA.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/CGRA.cpp
 src/core/CMakeFiles/core.dir/CGRA.cpp.o: src/core/CMakeFiles/core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/core/CMakeFiles/core.dir/CGRA.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/CGRA.cpp.o -MF CMakeFiles/core.dir/CGRA.cpp.o.d -o CMakeFiles/core.dir/CGRA.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/CGRA.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/CGRA.cpp.o -MF CMakeFiles/core.dir/CGRA.cpp.o.d -o CMakeFiles/core.dir/CGRA.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/CGRA.cpp
 
 src/core/CMakeFiles/core.dir/CGRA.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core.dir/CGRA.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/CGRA.cpp > CMakeFiles/core.dir/CGRA.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/CGRA.cpp > CMakeFiles/core.dir/CGRA.cpp.i
 
 src/core/CMakeFiles/core.dir/CGRA.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core.dir/CGRA.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/CGRA.cpp -o CMakeFiles/core.dir/CGRA.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/CGRA.cpp -o CMakeFiles/core.dir/CGRA.cpp.s
 
 src/core/CMakeFiles/core.dir/ILPMapper.cpp.o: src/core/CMakeFiles/core.dir/flags.make
 src/core/CMakeFiles/core.dir/ILPMapper.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ILPMapper.cpp
 src/core/CMakeFiles/core.dir/ILPMapper.cpp.o: src/core/CMakeFiles/core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/core/CMakeFiles/core.dir/ILPMapper.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/ILPMapper.cpp.o -MF CMakeFiles/core.dir/ILPMapper.cpp.o.d -o CMakeFiles/core.dir/ILPMapper.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ILPMapper.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/ILPMapper.cpp.o -MF CMakeFiles/core.dir/ILPMapper.cpp.o.d -o CMakeFiles/core.dir/ILPMapper.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ILPMapper.cpp
 
 src/core/CMakeFiles/core.dir/ILPMapper.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core.dir/ILPMapper.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ILPMapper.cpp > CMakeFiles/core.dir/ILPMapper.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ILPMapper.cpp > CMakeFiles/core.dir/ILPMapper.cpp.i
 
 src/core/CMakeFiles/core.dir/ILPMapper.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core.dir/ILPMapper.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ILPMapper.cpp -o CMakeFiles/core.dir/ILPMapper.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ILPMapper.cpp -o CMakeFiles/core.dir/ILPMapper.cpp.s
 
 src/core/CMakeFiles/core.dir/Mapper.cpp.o: src/core/CMakeFiles/core.dir/flags.make
 src/core/CMakeFiles/core.dir/Mapper.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Mapper.cpp
 src/core/CMakeFiles/core.dir/Mapper.cpp.o: src/core/CMakeFiles/core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/core/CMakeFiles/core.dir/Mapper.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/Mapper.cpp.o -MF CMakeFiles/core.dir/Mapper.cpp.o.d -o CMakeFiles/core.dir/Mapper.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Mapper.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/Mapper.cpp.o -MF CMakeFiles/core.dir/Mapper.cpp.o.d -o CMakeFiles/core.dir/Mapper.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Mapper.cpp
 
 src/core/CMakeFiles/core.dir/Mapper.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core.dir/Mapper.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Mapper.cpp > CMakeFiles/core.dir/Mapper.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Mapper.cpp > CMakeFiles/core.dir/Mapper.cpp.i
 
 src/core/CMakeFiles/core.dir/Mapper.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core.dir/Mapper.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Mapper.cpp -o CMakeFiles/core.dir/Mapper.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Mapper.cpp -o CMakeFiles/core.dir/Mapper.cpp.s
 
 src/core/CMakeFiles/core.dir/Mapping.cpp.o: src/core/CMakeFiles/core.dir/flags.make
 src/core/CMakeFiles/core.dir/Mapping.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Mapping.cpp
 src/core/CMakeFiles/core.dir/Mapping.cpp.o: src/core/CMakeFiles/core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/core/CMakeFiles/core.dir/Mapping.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/Mapping.cpp.o -MF CMakeFiles/core.dir/Mapping.cpp.o.d -o CMakeFiles/core.dir/Mapping.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Mapping.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/Mapping.cpp.o -MF CMakeFiles/core.dir/Mapping.cpp.o.d -o CMakeFiles/core.dir/Mapping.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Mapping.cpp
 
 src/core/CMakeFiles/core.dir/Mapping.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core.dir/Mapping.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Mapping.cpp > CMakeFiles/core.dir/Mapping.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Mapping.cpp > CMakeFiles/core.dir/Mapping.cpp.i
 
 src/core/CMakeFiles/core.dir/Mapping.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core.dir/Mapping.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Mapping.cpp -o CMakeFiles/core.dir/Mapping.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Mapping.cpp -o CMakeFiles/core.dir/Mapping.cpp.s
 
 src/core/CMakeFiles/core.dir/OpGraph.cpp.o: src/core/CMakeFiles/core.dir/flags.make
 src/core/CMakeFiles/core.dir/OpGraph.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/OpGraph.cpp
 src/core/CMakeFiles/core.dir/OpGraph.cpp.o: src/core/CMakeFiles/core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/core/CMakeFiles/core.dir/OpGraph.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/OpGraph.cpp.o -MF CMakeFiles/core.dir/OpGraph.cpp.o.d -o CMakeFiles/core.dir/OpGraph.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/OpGraph.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/OpGraph.cpp.o -MF CMakeFiles/core.dir/OpGraph.cpp.o.d -o CMakeFiles/core.dir/OpGraph.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/OpGraph.cpp
 
 src/core/CMakeFiles/core.dir/OpGraph.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core.dir/OpGraph.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/OpGraph.cpp > CMakeFiles/core.dir/OpGraph.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/OpGraph.cpp > CMakeFiles/core.dir/OpGraph.cpp.i
 
 src/core/CMakeFiles/core.dir/OpGraph.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core.dir/OpGraph.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/OpGraph.cpp -o CMakeFiles/core.dir/OpGraph.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/OpGraph.cpp -o CMakeFiles/core.dir/OpGraph.cpp.s
 
 src/core/CMakeFiles/core.dir/MRRG.cpp.o: src/core/CMakeFiles/core.dir/flags.make
 src/core/CMakeFiles/core.dir/MRRG.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/MRRG.cpp
 src/core/CMakeFiles/core.dir/MRRG.cpp.o: src/core/CMakeFiles/core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object src/core/CMakeFiles/core.dir/MRRG.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/MRRG.cpp.o -MF CMakeFiles/core.dir/MRRG.cpp.o.d -o CMakeFiles/core.dir/MRRG.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/MRRG.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/MRRG.cpp.o -MF CMakeFiles/core.dir/MRRG.cpp.o.d -o CMakeFiles/core.dir/MRRG.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/MRRG.cpp
 
 src/core/CMakeFiles/core.dir/MRRG.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core.dir/MRRG.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/MRRG.cpp > CMakeFiles/core.dir/MRRG.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/MRRG.cpp > CMakeFiles/core.dir/MRRG.cpp.i
 
 src/core/CMakeFiles/core.dir/MRRG.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core.dir/MRRG.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/MRRG.cpp -o CMakeFiles/core.dir/MRRG.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/MRRG.cpp -o CMakeFiles/core.dir/MRRG.cpp.s
 
 src/core/CMakeFiles/core.dir/Module.cpp.o: src/core/CMakeFiles/core.dir/flags.make
 src/core/CMakeFiles/core.dir/Module.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Module.cpp
 src/core/CMakeFiles/core.dir/Module.cpp.o: src/core/CMakeFiles/core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object src/core/CMakeFiles/core.dir/Module.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/Module.cpp.o -MF CMakeFiles/core.dir/Module.cpp.o.d -o CMakeFiles/core.dir/Module.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Module.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/Module.cpp.o -MF CMakeFiles/core.dir/Module.cpp.o.d -o CMakeFiles/core.dir/Module.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Module.cpp
 
 src/core/CMakeFiles/core.dir/Module.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core.dir/Module.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Module.cpp > CMakeFiles/core.dir/Module.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Module.cpp > CMakeFiles/core.dir/Module.cpp.i
 
 src/core/CMakeFiles/core.dir/Module.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core.dir/Module.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Module.cpp -o CMakeFiles/core.dir/Module.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/Module.cpp -o CMakeFiles/core.dir/Module.cpp.s
 
 src/core/CMakeFiles/core.dir/ModuleRoutingStructures.cpp.o: src/core/CMakeFiles/core.dir/flags.make
 src/core/CMakeFiles/core.dir/ModuleRoutingStructures.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleRoutingStructures.cpp
 src/core/CMakeFiles/core.dir/ModuleRoutingStructures.cpp.o: src/core/CMakeFiles/core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object src/core/CMakeFiles/core.dir/ModuleRoutingStructures.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/ModuleRoutingStructures.cpp.o -MF CMakeFiles/core.dir/ModuleRoutingStructures.cpp.o.d -o CMakeFiles/core.dir/ModuleRoutingStructures.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleRoutingStructures.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/ModuleRoutingStructures.cpp.o -MF CMakeFiles/core.dir/ModuleRoutingStructures.cpp.o.d -o CMakeFiles/core.dir/ModuleRoutingStructures.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleRoutingStructures.cpp
 
 src/core/CMakeFiles/core.dir/ModuleRoutingStructures.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core.dir/ModuleRoutingStructures.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleRoutingStructures.cpp > CMakeFiles/core.dir/ModuleRoutingStructures.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleRoutingStructures.cpp > CMakeFiles/core.dir/ModuleRoutingStructures.cpp.i
 
 src/core/CMakeFiles/core.dir/ModuleRoutingStructures.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core.dir/ModuleRoutingStructures.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleRoutingStructures.cpp -o CMakeFiles/core.dir/ModuleRoutingStructures.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleRoutingStructures.cpp -o CMakeFiles/core.dir/ModuleRoutingStructures.cpp.s
 
 src/core/CMakeFiles/core.dir/ModuleComposites.cpp.o: src/core/CMakeFiles/core.dir/flags.make
 src/core/CMakeFiles/core.dir/ModuleComposites.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleComposites.cpp
 src/core/CMakeFiles/core.dir/ModuleComposites.cpp.o: src/core/CMakeFiles/core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object src/core/CMakeFiles/core.dir/ModuleComposites.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/ModuleComposites.cpp.o -MF CMakeFiles/core.dir/ModuleComposites.cpp.o.d -o CMakeFiles/core.dir/ModuleComposites.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleComposites.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/ModuleComposites.cpp.o -MF CMakeFiles/core.dir/ModuleComposites.cpp.o.d -o CMakeFiles/core.dir/ModuleComposites.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleComposites.cpp
 
 src/core/CMakeFiles/core.dir/ModuleComposites.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core.dir/ModuleComposites.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleComposites.cpp > CMakeFiles/core.dir/ModuleComposites.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleComposites.cpp > CMakeFiles/core.dir/ModuleComposites.cpp.i
 
 src/core/CMakeFiles/core.dir/ModuleComposites.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core.dir/ModuleComposites.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleComposites.cpp -o CMakeFiles/core.dir/ModuleComposites.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleComposites.cpp -o CMakeFiles/core.dir/ModuleComposites.cpp.s
 
 src/core/CMakeFiles/core.dir/ModuleFuncUnit.cpp.o: src/core/CMakeFiles/core.dir/flags.make
 src/core/CMakeFiles/core.dir/ModuleFuncUnit.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleFuncUnit.cpp
 src/core/CMakeFiles/core.dir/ModuleFuncUnit.cpp.o: src/core/CMakeFiles/core.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object src/core/CMakeFiles/core.dir/ModuleFuncUnit.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/ModuleFuncUnit.cpp.o -MF CMakeFiles/core.dir/ModuleFuncUnit.cpp.o.d -o CMakeFiles/core.dir/ModuleFuncUnit.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleFuncUnit.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/core/CMakeFiles/core.dir/ModuleFuncUnit.cpp.o -MF CMakeFiles/core.dir/ModuleFuncUnit.cpp.o.d -o CMakeFiles/core.dir/ModuleFuncUnit.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleFuncUnit.cpp
 
 src/core/CMakeFiles/core.dir/ModuleFuncUnit.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/core.dir/ModuleFuncUnit.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleFuncUnit.cpp > CMakeFiles/core.dir/ModuleFuncUnit.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleFuncUnit.cpp > CMakeFiles/core.dir/ModuleFuncUnit.cpp.i
 
 src/core/CMakeFiles/core.dir/ModuleFuncUnit.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/core.dir/ModuleFuncUnit.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleFuncUnit.cpp -o CMakeFiles/core.dir/ModuleFuncUnit.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/core/ModuleFuncUnit.cpp -o CMakeFiles/core.dir/ModuleFuncUnit.cpp.s
 
 core: src/core/CMakeFiles/core.dir/AnnealMapper.cpp.o
 core: src/core/CMakeFiles/core.dir/BitSetting.cpp.o

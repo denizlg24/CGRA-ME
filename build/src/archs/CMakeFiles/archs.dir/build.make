@@ -76,29 +76,29 @@ src/archs/CMakeFiles/archs.dir/AdresArch.cpp.o: src/archs/CMakeFiles/archs.dir/f
 src/archs/CMakeFiles/archs.dir/AdresArch.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/archs/AdresArch.cpp
 src/archs/CMakeFiles/archs.dir/AdresArch.cpp.o: src/archs/CMakeFiles/archs.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/archs/CMakeFiles/archs.dir/AdresArch.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/archs && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/archs/CMakeFiles/archs.dir/AdresArch.cpp.o -MF CMakeFiles/archs.dir/AdresArch.cpp.o.d -o CMakeFiles/archs.dir/AdresArch.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/archs/AdresArch.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/archs && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/archs/CMakeFiles/archs.dir/AdresArch.cpp.o -MF CMakeFiles/archs.dir/AdresArch.cpp.o.d -o CMakeFiles/archs.dir/AdresArch.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/archs/AdresArch.cpp
 
 src/archs/CMakeFiles/archs.dir/AdresArch.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/archs.dir/AdresArch.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/archs && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/archs/AdresArch.cpp > CMakeFiles/archs.dir/AdresArch.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/archs && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/archs/AdresArch.cpp > CMakeFiles/archs.dir/AdresArch.cpp.i
 
 src/archs/CMakeFiles/archs.dir/AdresArch.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/archs.dir/AdresArch.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/archs && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/archs/AdresArch.cpp -o CMakeFiles/archs.dir/AdresArch.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/archs && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/archs/AdresArch.cpp -o CMakeFiles/archs.dir/AdresArch.cpp.s
 
 src/archs/CMakeFiles/archs.dir/SimpleArch.cpp.o: src/archs/CMakeFiles/archs.dir/flags.make
 src/archs/CMakeFiles/archs.dir/SimpleArch.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/archs/SimpleArch.cpp
 src/archs/CMakeFiles/archs.dir/SimpleArch.cpp.o: src/archs/CMakeFiles/archs.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/archs/CMakeFiles/archs.dir/SimpleArch.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/archs && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/archs/CMakeFiles/archs.dir/SimpleArch.cpp.o -MF CMakeFiles/archs.dir/SimpleArch.cpp.o.d -o CMakeFiles/archs.dir/SimpleArch.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/archs/SimpleArch.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/archs && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/archs/CMakeFiles/archs.dir/SimpleArch.cpp.o -MF CMakeFiles/archs.dir/SimpleArch.cpp.o.d -o CMakeFiles/archs.dir/SimpleArch.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/archs/SimpleArch.cpp
 
 src/archs/CMakeFiles/archs.dir/SimpleArch.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/archs.dir/SimpleArch.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/archs && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/archs/SimpleArch.cpp > CMakeFiles/archs.dir/SimpleArch.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/archs && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/archs/SimpleArch.cpp > CMakeFiles/archs.dir/SimpleArch.cpp.i
 
 src/archs/CMakeFiles/archs.dir/SimpleArch.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/archs.dir/SimpleArch.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/archs && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/archs/SimpleArch.cpp -o CMakeFiles/archs.dir/SimpleArch.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/archs && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/archs/SimpleArch.cpp -o CMakeFiles/archs.dir/SimpleArch.cpp.s
 
 archs: src/archs/CMakeFiles/archs.dir/AdresArch.cpp.o
 archs: src/archs/CMakeFiles/archs.dir/SimpleArch.cpp.o

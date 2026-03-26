@@ -76,57 +76,57 @@ src/dotparser/CMakeFiles/dotparser.dir/dfgdot_driver.cc.o: src/dotparser/CMakeFi
 src/dotparser/CMakeFiles/dotparser.dir/dfgdot_driver.cc.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot_driver.cc
 src/dotparser/CMakeFiles/dotparser.dir/dfgdot_driver.cc.o: src/dotparser/CMakeFiles/dotparser.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/dotparser/CMakeFiles/dotparser.dir/dfgdot_driver.cc.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/dotparser/CMakeFiles/dotparser.dir/dfgdot_driver.cc.o -MF CMakeFiles/dotparser.dir/dfgdot_driver.cc.o.d -o CMakeFiles/dotparser.dir/dfgdot_driver.cc.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot_driver.cc
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/dotparser/CMakeFiles/dotparser.dir/dfgdot_driver.cc.o -MF CMakeFiles/dotparser.dir/dfgdot_driver.cc.o.d -o CMakeFiles/dotparser.dir/dfgdot_driver.cc.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot_driver.cc
 
 src/dotparser/CMakeFiles/dotparser.dir/dfgdot_driver.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dotparser.dir/dfgdot_driver.cc.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot_driver.cc > CMakeFiles/dotparser.dir/dfgdot_driver.cc.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot_driver.cc > CMakeFiles/dotparser.dir/dfgdot_driver.cc.i
 
 src/dotparser/CMakeFiles/dotparser.dir/dfgdot_driver.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dotparser.dir/dfgdot_driver.cc.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot_driver.cc -o CMakeFiles/dotparser.dir/dfgdot_driver.cc.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot_driver.cc -o CMakeFiles/dotparser.dir/dfgdot_driver.cc.s
 
 src/dotparser/CMakeFiles/dotparser.dir/dfgdot.tab.cc.o: src/dotparser/CMakeFiles/dotparser.dir/flags.make
 src/dotparser/CMakeFiles/dotparser.dir/dfgdot.tab.cc.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot.tab.cc
 src/dotparser/CMakeFiles/dotparser.dir/dfgdot.tab.cc.o: src/dotparser/CMakeFiles/dotparser.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/dotparser/CMakeFiles/dotparser.dir/dfgdot.tab.cc.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/dotparser/CMakeFiles/dotparser.dir/dfgdot.tab.cc.o -MF CMakeFiles/dotparser.dir/dfgdot.tab.cc.o.d -o CMakeFiles/dotparser.dir/dfgdot.tab.cc.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot.tab.cc
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/dotparser/CMakeFiles/dotparser.dir/dfgdot.tab.cc.o -MF CMakeFiles/dotparser.dir/dfgdot.tab.cc.o.d -o CMakeFiles/dotparser.dir/dfgdot.tab.cc.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot.tab.cc
 
 src/dotparser/CMakeFiles/dotparser.dir/dfgdot.tab.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dotparser.dir/dfgdot.tab.cc.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot.tab.cc > CMakeFiles/dotparser.dir/dfgdot.tab.cc.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot.tab.cc > CMakeFiles/dotparser.dir/dfgdot.tab.cc.i
 
 src/dotparser/CMakeFiles/dotparser.dir/dfgdot.tab.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dotparser.dir/dfgdot.tab.cc.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot.tab.cc -o CMakeFiles/dotparser.dir/dfgdot.tab.cc.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot.tab.cc -o CMakeFiles/dotparser.dir/dfgdot.tab.cc.s
 
 src/dotparser/CMakeFiles/dotparser.dir/dfgdot.yy.cc.o: src/dotparser/CMakeFiles/dotparser.dir/flags.make
 src/dotparser/CMakeFiles/dotparser.dir/dfgdot.yy.cc.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot.yy.cc
 src/dotparser/CMakeFiles/dotparser.dir/dfgdot.yy.cc.o: src/dotparser/CMakeFiles/dotparser.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/dotparser/CMakeFiles/dotparser.dir/dfgdot.yy.cc.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/dotparser/CMakeFiles/dotparser.dir/dfgdot.yy.cc.o -MF CMakeFiles/dotparser.dir/dfgdot.yy.cc.o.d -o CMakeFiles/dotparser.dir/dfgdot.yy.cc.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot.yy.cc
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/dotparser/CMakeFiles/dotparser.dir/dfgdot.yy.cc.o -MF CMakeFiles/dotparser.dir/dfgdot.yy.cc.o.d -o CMakeFiles/dotparser.dir/dfgdot.yy.cc.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot.yy.cc
 
 src/dotparser/CMakeFiles/dotparser.dir/dfgdot.yy.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dotparser.dir/dfgdot.yy.cc.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot.yy.cc > CMakeFiles/dotparser.dir/dfgdot.yy.cc.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot.yy.cc > CMakeFiles/dotparser.dir/dfgdot.yy.cc.i
 
 src/dotparser/CMakeFiles/dotparser.dir/dfgdot.yy.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dotparser.dir/dfgdot.yy.cc.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot.yy.cc -o CMakeFiles/dotparser.dir/dfgdot.yy.cc.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dfgdot.yy.cc -o CMakeFiles/dotparser.dir/dfgdot.yy.cc.s
 
 src/dotparser/CMakeFiles/dotparser.dir/dotparser.cc.o: src/dotparser/CMakeFiles/dotparser.dir/flags.make
 src/dotparser/CMakeFiles/dotparser.dir/dotparser.cc.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dotparser.cc
 src/dotparser/CMakeFiles/dotparser.dir/dotparser.cc.o: src/dotparser/CMakeFiles/dotparser.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/dotparser/CMakeFiles/dotparser.dir/dotparser.cc.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/dotparser/CMakeFiles/dotparser.dir/dotparser.cc.o -MF CMakeFiles/dotparser.dir/dotparser.cc.o.d -o CMakeFiles/dotparser.dir/dotparser.cc.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dotparser.cc
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/dotparser/CMakeFiles/dotparser.dir/dotparser.cc.o -MF CMakeFiles/dotparser.dir/dotparser.cc.o.d -o CMakeFiles/dotparser.dir/dotparser.cc.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dotparser.cc
 
 src/dotparser/CMakeFiles/dotparser.dir/dotparser.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dotparser.dir/dotparser.cc.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dotparser.cc > CMakeFiles/dotparser.dir/dotparser.cc.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dotparser.cc > CMakeFiles/dotparser.dir/dotparser.cc.i
 
 src/dotparser/CMakeFiles/dotparser.dir/dotparser.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dotparser.dir/dotparser.cc.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dotparser.cc -o CMakeFiles/dotparser.dir/dotparser.cc.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/dotparser/dotparser.cc -o CMakeFiles/dotparser.dir/dotparser.cc.s
 
 dotparser: src/dotparser/CMakeFiles/dotparser.dir/dfgdot_driver.cc.o
 dotparser: src/dotparser/CMakeFiles/dotparser.dir/dfgdot.tab.cc.o

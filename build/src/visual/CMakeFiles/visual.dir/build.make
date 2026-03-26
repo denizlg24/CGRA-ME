@@ -76,15 +76,15 @@ src/visual/CMakeFiles/visual.dir/Visual.cpp.o: src/visual/CMakeFiles/visual.dir/
 src/visual/CMakeFiles/visual.dir/Visual.cpp.o: /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/visual/Visual.cpp
 src/visual/CMakeFiles/visual.dir/Visual.cpp.o: src/visual/CMakeFiles/visual.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/visual/CMakeFiles/visual.dir/Visual.cpp.o"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/visual && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/visual/CMakeFiles/visual.dir/Visual.cpp.o -MF CMakeFiles/visual.dir/Visual.cpp.o.d -o CMakeFiles/visual.dir/Visual.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/visual/Visual.cpp
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/visual && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/visual/CMakeFiles/visual.dir/Visual.cpp.o -MF CMakeFiles/visual.dir/Visual.cpp.o.d -o CMakeFiles/visual.dir/Visual.cpp.o -c /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/visual/Visual.cpp
 
 src/visual/CMakeFiles/visual.dir/Visual.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/visual.dir/Visual.cpp.i"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/visual && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/visual/Visual.cpp > CMakeFiles/visual.dir/Visual.cpp.i
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/visual && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/visual/Visual.cpp > CMakeFiles/visual.dir/Visual.cpp.i
 
 src/visual/CMakeFiles/visual.dir/Visual.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/visual.dir/Visual.cpp.s"
-	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/visual && /opt/homebrew/opt/llvm/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/visual/Visual.cpp -o CMakeFiles/visual.dir/Visual.cpp.s
+	cd /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/visual && /opt/homebrew/opt/llvm@14/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/src/visual/Visual.cpp -o CMakeFiles/visual.dir/Visual.cpp.s
 
 visual: src/visual/CMakeFiles/visual.dir/Visual.cpp.o
 visual: src/visual/CMakeFiles/visual.dir/build.make
