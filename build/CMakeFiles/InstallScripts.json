@@ -1,0 +1,23 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/cmake_install.cmake",
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/thirdparty/cmake_install.cmake",
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/thirdparty/cxxopts/cmake_install.cmake",
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/thirdparty/mINI/cmake_install.cmake",
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/thirdparty/scipoptsuite/cmake_install.cmake",
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/thirdparty/pugixml/cmake_install.cmake",
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/cmake_install.cmake",
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/archs/cmake_install.cmake",
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/core/cmake_install.cmake",
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/dotparser/cmake_install.cmake",
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/modules/cmake_install.cmake",
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/visual/cmake_install.cmake",
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/run/cmake_install.cmake",
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/adl_0/cmake_install.cmake",
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/src/adl_1/cmake_install.cmake",
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/llvm-passes/cmake_install.cmake",
+		"/Users/denizlg24/Desktop/FEUP/3ANO/INESCTEC/cgra_dqmap.nosync/cgra_me/build/llvm-passes/DFG/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
